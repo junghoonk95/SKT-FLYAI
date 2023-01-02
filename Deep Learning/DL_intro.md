@@ -53,9 +53,9 @@ Hidden layers(은닉층): 입력층과 층력층을 제외한 중간층, 은닉�
 - Dense Module
 1. Neural Network를 구성하는 Layer를 todtjdgkf Eo tkdyd
 2. model.add(Dense(1,input_dim=3,activation ="relu")
-3. -첫번째 인자: 출력 노드의수
-4. input_dim:입력 노드의 수(입력의 차원)
-5. activation 활성화 함수
+    - 첫번째 인자: 출력 노드의수
+    - input_dim:입력 노드의 수(입력의 차원)
+    - activation: 활성화 함수
  
 **가지고 있는 데이터에 따라 활성화 함수 설정 !** 
 
