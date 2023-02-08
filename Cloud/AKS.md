@@ -12,7 +12,8 @@
 <img src = "https://user-images.githubusercontent.com/80855939/217404275-73378a16-27ea-4aa4-98ad-24c1a903ab83.png" width="50%" height="50%">
 
 ## 생성한 노드에 pod 추가하기
-<img src = "https://user-images.githubusercontent.com/80855939/217400641-ada73d90-e306-46f3-a356-c0c126fe57b0.png" width="100%" height="100%">
+<img src = "https://user-images.githubusercontent.com/80855939/217406077-be6facfa-39a0-4a5d-b0f2-8df1f545525c.png" width="100%" height="100%">
+
 
 > 노드 확인
 ```code
