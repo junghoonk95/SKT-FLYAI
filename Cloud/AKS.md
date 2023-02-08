@@ -6,15 +6,13 @@
 <img src = "https://user-images.githubusercontent.com/80855939/217398190-ed162939-c646-430c-b815-243dedd161cb.png" width="70%" height="70%">
 <img src = "https://user-images.githubusercontent.com/80855939/217397643-46a10d66-6725-462e-94db-ab3394c1e488.png" width="70%" height="70%">
 
--> 만들기 
-
 > 기존 리소스 에는 "aksTest32", 신규 리소스에는 내부 AKS 요소 확인
 
-## 생성한 노드에 pod 추가하기
-
 <img src = "https://user-images.githubusercontent.com/80855939/217398430-5cceaa81-85df-4742-981e-8b433a3eb281.png" width="70%" height="80%">
+<img src = "https://user-images.githubusercontent.com/80855939/217404275-73378a16-27ea-4aa4-98ad-24c1a903ab83.png" width="50%" height="50%">
+
+## 생성한 노드에 pod 추가하기
 <img src = "https://user-images.githubusercontent.com/80855939/217400641-ada73d90-e306-46f3-a356-c0c126fe57b0.png" width="100%" height="100%">
-<!-- ![image](https://user-images.githubusercontent.com/80855939/217400641-ada73d90-e306-46f3-a356-c0c126fe57b0.png) -->
 
 > 노드 확인
 ```code
